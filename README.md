@@ -50,7 +50,7 @@ Makefile проекта содержит следующие цели:
 
 &nbsp;&nbsp;&nbsp;&nbsp;``all`` - включает в себя цели check, cppcheck, start_tests;
 
-&nbsp;&nbsp;&nbsp;&nbsp;``tests``, ``start_tests`` - Запускает unit-тесты на проверку методов контейнерных классов с помощью библиотеки GTest;
+&nbsp;&nbsp;&nbsp;&nbsp;``test``, ``start_test`` - Запускает unit-тесты на проверку методов контейнерных классов с помощью библиотеки GTest;
 
 &nbsp;&nbsp;&nbsp;&nbsp;``gcov_report`` - генерация html-отчета с помощью lcov для измерения покрытия кода тестами;
 
